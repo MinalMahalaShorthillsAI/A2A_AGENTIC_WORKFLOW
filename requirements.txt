@@ -1,0 +1,6 @@
+# Essential dependencies for A2A testing
+google-adk[a2a]
+google-generativeai
+uvicorn
+fastapi
+loguru
